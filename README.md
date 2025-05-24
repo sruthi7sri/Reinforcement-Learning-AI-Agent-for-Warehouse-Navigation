@@ -36,7 +36,6 @@ This project features a reinforcement learning (RL) simulation where an AI agent
 
 
 ## File Structure
-
 ```bash
 Reinforcement-Learning-AI-Agent-Warehouse-Navigation/
 ├── agent/
