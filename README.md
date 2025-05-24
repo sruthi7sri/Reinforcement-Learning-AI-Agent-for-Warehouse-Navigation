@@ -36,6 +36,7 @@ This project features a reinforcement learning (RL) simulation where an AI agent
 
 
 ## File Structure
+```
 Reinforcement-Learning-AI-Agent-Warehouse-Navigation/
 ├── agent/
 │   ├── agent_navigation.ipynb
@@ -51,7 +52,7 @@ Reinforcement-Learning-AI-Agent-Warehouse-Navigation/
 │   └── star_fragment.png
 ├── README.md
 └── requirements.txt
-
+```
 ### What each file does
 
 #### agent/
