@@ -91,9 +91,13 @@ Open Jupyter and run the notebooks inside the `agent/` folder.
 
 ## Dependencies:
 numpy>=1.19.5
+
 matplotlib>=3.3.2
+
 opencv-python>=4.5.1
+
 Pillow>=8.0.1
+
 jupyter>=1.0.0
 
 ## Project Goals
