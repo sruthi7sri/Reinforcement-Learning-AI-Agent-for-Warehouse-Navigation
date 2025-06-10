@@ -106,5 +106,10 @@ jupyter>=1.0.0
 - Support more sophisticated layouts through modular logic.
 - Provide a learning tool to demonstrate key reinforcement learning principles.
 
+## Collaborators
+
+- Sruthisri Venkateswaran  
+- Sri Sakthi Thirumagal Poovannan
+
 ## License
-© 2024 Sruthisri. All rights reserved.
+© 2024 Sruthisri Venkateswaran and Sri Sakthi Thirumagal Poovannan. All rights reserved.
